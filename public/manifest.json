@@ -46,7 +46,7 @@
     "short_name": "Budget",
     "background_color": "#5d57ff",
     "theme_color": "#454545",
-    "start_url": "../index.html",
+    "start_url": "/",
     "display": "standalone"
    
   }
