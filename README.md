@@ -20,7 +20,7 @@ Visit (https://git.heroku.com/ancient-island-34751.git)
 Simply enter your transactions using the tools at the top of the page. 
 
 ## Credits
-Many thanks to Sean King and encycolorpedia.com.
+Many thanks to Sean King, Aliff Macapinlac and encycolorpedia.com.
 
 ## License
 Project covered under [MIT license](https://choosealicense.com/licenses/mit/).
