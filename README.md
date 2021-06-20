@@ -2,6 +2,8 @@
 
 ## Description
 This is an application designed to record transactions so that the user can track and maintain a budget. Data can be entered while offline, and all transactions entered during this time will be saved to IndexedDB and restored once the user regains Internet connectivity. 
+
+
 ![Screenshot of app](/images/screenshot.png "Budget Tracker")
 
 
