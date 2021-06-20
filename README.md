@@ -17,7 +17,7 @@ This is an application designed to record transactions so that the user can trac
   
 
 ## Installation
-Visit (https://git.heroku.com/ancient-island-34751.git)
+Visit (https://ancient-island-34751.herokuapp.com/)
 
 ## Usage
 Simply enter your transactions using the tools at the top of the page. 
